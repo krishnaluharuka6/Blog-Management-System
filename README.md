@@ -9,7 +9,7 @@ Single Blog Page
 Blog page
 <img width="1351" height="2158" alt="localhost_8000_blog_page" src="https://github.com/user-attachments/assets/38246d82-a6d2-4efb-901e-df24d5e3cc97" />
 
-Contact Page
+Contact Page <br>
 <img width="1351" height="1333" alt="localhost_8000_contact_page" src="https://github.com/user-attachments/assets/4d8d1831-0ff1-4c27-85c4-8dbcbda9fee1" />
 
 
@@ -26,20 +26,20 @@ Profile Edit
 
 
 
-Blog CRUD 
+Blog CRUD <br>
 <img width="865" height="433" alt="image" src="https://github.com/user-attachments/assets/f028e50f-1ea6-4880-9058-c6296073e22d" />
 <img width="865" height="375" alt="image" src="https://github.com/user-attachments/assets/27ca754c-d198-42ca-a3d7-b8941d7159a5" />
 
 
-Categories CRUD
+Categories CRUD <br>
 <img width="865" height="384" alt="image" src="https://github.com/user-attachments/assets/c64ab76a-ff7b-4f07-9cb2-6a55d5e3e429" />
 
 
-Image CRUD
+Image CRUD  <br>
 <img width="865" height="358" alt="image" src="https://github.com/user-attachments/assets/9033458e-a8c3-4f52-9889-0846de24ca0d" />
 
 
-Contact Notification
+Contact Notification <br>
 <img width="865" height="409" alt="image" src="https://github.com/user-attachments/assets/559457f7-d32a-46d6-a441-42d2b94d9798" />
 
 
